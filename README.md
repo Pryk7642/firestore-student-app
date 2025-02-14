@@ -15,5 +15,5 @@ to add firebase to project
 
 ```
 dart pub global activate flutterfire_cli
-flutterfire configure --project=[FIREBASE_PROJECT_CONSOLE_NAME]
+flutterfire configure --project=[ชื่อโปรเจค]
 ```
